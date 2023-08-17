@@ -10,22 +10,22 @@ const testimonials = [
     description: " This is the best app I have used",
   },
   {
-    name: "Antonio",
+    name: "Justin",
     avatar: "A",
-    title: "Software Engineer",
-    description: " This is the best app I have used",
+    title: "Content manager",
+    description: "Very useful app for generating different types of content",
   },
   {
-    name: "Antonio",
+    name: "Viktoria",
     avatar: "A",
-    title: "Software Engineer",
-    description: " This is the best app I have used",
+    title: "Marketing ",
+    description: "Wow, cool",
   },
   {
-    name: "Antonio",
-    avatar: "A",
-    title: "Software Engineer",
-    description: " This is the best app I have used",
+    name: "Veronika",
+    avatar: "V",
+    title: "Researcher",
+    description: "Mostly like the image generator",
   },
 ];
 
